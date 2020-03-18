@@ -22,7 +22,7 @@
 
 
 ###  http://webprotege.stanford.edu/R79Jl4dGLNroHYEWCdRWUBi
-<http://webprotege.stanford.edu/R79Jl4dGLNroHYEWCdRWUBi> rdf:type owl:NamedIndividual ,
+<https://USERNAME.github.io/kitchenNode1> rdf:type owl:NamedIndividual ,
                                                                   sosa:Platform ;
                                                          sosa:hosts <http://webprotege.stanford.edu/R8aBAlGnwoX4s1OVwlgwu5W> ,
                                                                     <http://webprotege.stanford.edu/RBmv6XOn0j3PYaEiO22luws> ,
