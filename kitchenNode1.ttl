@@ -28,7 +28,7 @@
                                                                     <http://webprotege.stanford.edu/RBmv6XOn0j3PYaEiO22luws> ,
                                                                     <http://webprotege.stanford.edu/RamDVSjZ8i3SShTXjrOyI> ,
                                                                     <http://webprotege.stanford.edu/RfjjSeCYiX5VxXcpbki0L0> ;
-                                                         rdfs:label "kitchenNode" .
+                                                         rdfs:label "kitchenNode1" .
 
 
 ###  http://webprotege.stanford.edu/R8aBAlGnwoX4s1OVwlgwu5W
